@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index",
-    "serve": "node index",
+    "serve": "node index"
   },
   "keywords": [],
   "author": "",
